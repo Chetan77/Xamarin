@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dVTUP1FcJOIbPEzAYZ8EOOIBmd3osx9ijJpCHAkpw3xS1/E1wGgaxs9vWhpLw6FgZmpkhgVKNyTL/HwJB4j9vQ==",
+  "success": true,
+  "projectFilePath": "E:\\BridgeLabz\\xamarin\\employeeManagement\\Greeting\\GreetingApp\\GreetingApp.iOS\\GreetingApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Chetan Choudhari\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}
