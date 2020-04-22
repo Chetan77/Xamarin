@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="QualityMeasurement.MainPage">
+
+   
+    <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+        <!-- Place new controls here -->
+        <Label Text="Welcome to quality measurement system"
+            TextColor="DarkOrange" FontSize="30" HorizontalTextAlignment="Center" Margin="50,0,50,100" StyleClass="header"/>
+        <Grid BackgroundColor="Black" >
+        <Picker x:Name="fromType" Title="select from type" BackgroundColor="AliceBlue" TitleColor="Accent" TextColor="CornflowerBlue"
+                HorizontalOptions="Start" >
+            <Picker.Items >
+                <x:String>mm</x:String>
+                <x:String>cm</x:String>
+                <x:String>inch</x:String>
+                <x:String>feet</x:String>
+                <x:String>meter</x:String>
+            </Picker.Items>
+        </Picker>
+            <Label Text="=" FontSize="20" TextColor="Beige" HorizontalOptions="Center" VerticalOptions="Center"/>
+
+            <Picker x:Name="ToType"  Title="     select to type" BackgroundColor="AliceBlue" TitleColor="Accent" TextColor="CornflowerBlue"
+                HorizontalOptions="End" >
+                <Picker.Items>
+                    <x:String>mm</x:String>
+                    <x:String>cm</x:String>
+                    <x:String>inch</x:String>
+                    <x:String>feet</x:String>
+                    <x:String>meter</x:String>
+                </Picker.Items>
+            </Picker>
+        </Grid>
+        <Grid >
+        <Entry Placeholder="enter value"  x:Name="enteredValue" HorizontalOptions="Start" PlaceholderColor="Red" />
+        
+        <Label  x:Name="outputValue" HorizontalOptions="EndAndExpand" TextColor="Black" FontSize="25"/>
+        </Grid>
+        <Button Text="calculate" Clicked="Button_Clicked" BackgroundColor="GreenYellow" Margin="80,10,100,10"/>
+        
+    </StackLayout>
+
+</ContentPage>

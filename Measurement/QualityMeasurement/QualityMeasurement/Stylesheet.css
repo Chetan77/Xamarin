@@ -1,0 +1,17 @@
+﻿body
+{
+    background-color: lightgray;
+}
+
+grid {
+    margin: auto;
+}
+
+.bookName {
+    font-style: italic;
+    font-size: medium;
+}
+
+.bookDescription {
+    margin-top: auto;
+}

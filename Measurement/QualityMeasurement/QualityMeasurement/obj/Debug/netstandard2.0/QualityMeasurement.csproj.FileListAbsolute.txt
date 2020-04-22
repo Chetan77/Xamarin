@@ -1,0 +1,16 @@
+E:\BridgeLabz\xamarin\qualityMeasurement\Measurement\QualityMeasurement\QualityMeasurement\bin\Debug\netstandard2.0\QualityMeasurement.deps.json
+E:\BridgeLabz\xamarin\qualityMeasurement\Measurement\QualityMeasurement\QualityMeasurement\bin\Debug\netstandard2.0\QualityMeasurement.dll
+E:\BridgeLabz\xamarin\qualityMeasurement\Measurement\QualityMeasurement\QualityMeasurement\bin\Debug\netstandard2.0\ref\QualityMeasurement.dll
+E:\BridgeLabz\xamarin\qualityMeasurement\Measurement\QualityMeasurement\QualityMeasurement\bin\Debug\netstandard2.0\QualityMeasurement.pdb
+E:\BridgeLabz\xamarin\qualityMeasurement\Measurement\QualityMeasurement\QualityMeasurement\obj\Debug\netstandard2.0\QualityMeasurement.csprojAssemblyReference.cache
+E:\BridgeLabz\xamarin\qualityMeasurement\Measurement\QualityMeasurement\QualityMeasurement\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\BridgeLabz\xamarin\qualityMeasurement\Measurement\QualityMeasurement\QualityMeasurement\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\BridgeLabz\xamarin\qualityMeasurement\Measurement\QualityMeasurement\QualityMeasurement\obj\Debug\netstandard2.0\QualityMeasurement.csproj.CoreCompileInputs.cache
+E:\BridgeLabz\xamarin\qualityMeasurement\Measurement\QualityMeasurement\QualityMeasurement\obj\Debug\netstandard2.0\QualityMeasurement.AssemblyInfoInputs.cache
+E:\BridgeLabz\xamarin\qualityMeasurement\Measurement\QualityMeasurement\QualityMeasurement\obj\Debug\netstandard2.0\QualityMeasurement.AssemblyInfo.cs
+E:\BridgeLabz\xamarin\qualityMeasurement\Measurement\QualityMeasurement\QualityMeasurement\obj\Debug\netstandard2.0\XamlC.stamp
+E:\BridgeLabz\xamarin\qualityMeasurement\Measurement\QualityMeasurement\QualityMeasurement\obj\Debug\netstandard2.0\QualityMeasurement.dll
+E:\BridgeLabz\xamarin\qualityMeasurement\Measurement\QualityMeasurement\QualityMeasurement\obj\Debug\netstandard2.0\ref\QualityMeasurement.dll
+E:\BridgeLabz\xamarin\qualityMeasurement\Measurement\QualityMeasurement\QualityMeasurement\obj\Debug\netstandard2.0\QualityMeasurement.pdb
+E:\BridgeLabz\xamarin\qualityMeasurement\Measurement\QualityMeasurement\QualityMeasurement\obj\Debug\netstandard2.0\Stylesheet.css.g.cs
+E:\BridgeLabz\xamarin\qualityMeasurement\Measurement\QualityMeasurement\QualityMeasurement\obj\Debug\netstandard2.0\styles\QualityMeasurementStyles.css.g.cs
